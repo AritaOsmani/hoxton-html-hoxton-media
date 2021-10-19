@@ -1,0 +1,124 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #14274E;
+}
+h2{
+    color:#14274E;
+    font-weight: 300;
+}
+h3{
+    margin-bottom:10px;
+}
+.nav-heading{
+    display: inline;
+    padding:20px;
+    color:white;
+    font-weight: 800;
+}
+.navbar{
+   padding: 25px;
+   color:white;
+}
+.main-part{
+    padding:30px;
+    background-color: white;
+}
+img{
+    width:100px;
+    height:45px;
+    vertical-align: middle;
+}
+.main-button{
+    border-radius:10%;
+    border:solid 2px white;
+    box-shadow: 2px 2px 3px grey;
+    margin:20px 20px 30px 20px;
+    
+}
+p{
+    line-height:1.5;
+    margin-top:15px;
+    font-size:16px;
+    color:#345B63;
+}
+.bold{
+    color:#14274E;
+    font-weight:600;
+}
+#sub-button{
+    border:solid 1px #F0A500;
+    color: #F0A500;
+    padding:15px 25px;
+    font-size:13px;
+    margin:20px 0;
+    background-color: white;
+    border-radius: 10px;
+}
+.footer-part{
+    color:white;
+    padding:10px;
+    margin:20px 20px 40px 20px;
+    font-weight:400;
+}
+ul{
+    list-style-type: none;
+}
+.inside-list{
+    margin-left:20px;
+}
+
+
+/* Testimonial Part */
+
+.testimonials{
+    padding:50px;
+}
+
+.testimonial-container{
+    display: inline-block;
+    box-shadow: 10px 4px 8px 0 rgba(0, 0,0, 0.2);
+    padding:10px 50px;
+    margin-left:20px;
+    background-color: #EEEEEE;
+}
+
+.quote-icon{
+    width:20px;
+    height:20px;
+}
+
+/* About Us Page */
+.aboutUs-section{
+    
+    background-color: white;
+    height:500px;
+    padding:0 200px 10px 350px;
+}
+
+.card{
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0,0, 0.2);
+    width:200px;
+    height:400px;
+    margin:30px;
+    
+}
+.container{
+    padding:2px 16px;
+    
+}
+.container h4{
+    text-align: center;
+    font-weight: 900;
+    
+}
+
+.card-image{
+    border-radius: 5px 5px 0 0;
+    width:100%;
+    height:50%;
+}
